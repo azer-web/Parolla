@@ -1,6 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import 'antd/dist/antd.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './Styles/navbar.scss'
+import './Styles/letter.scss'
+import './Styles/question.scss'
+import './Styles/reply.scss'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
